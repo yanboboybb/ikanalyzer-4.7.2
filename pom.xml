@@ -9,7 +9,7 @@
     <version>4.7.2</version>
     <description>ikanalyzer-2012_u6兼容lucene-4.10.4至4.3.0</description>
     <properties>
-        <lucene.version>4.7.2</lucene.version>
+        <lucene.version>8.2.0</lucene.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
